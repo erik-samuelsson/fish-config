@@ -10,3 +10,5 @@ alias confluence="open https://northvolt.atlassian.net/wiki/home"
 alias awsapps="open https://northvolt.awsapps.com/start#/"
 
 alias lg="lazygit"
+
+alias synctw="python3.9 /Users/esamuelsson/Projects/Development/PythonTaskwarrior/pythontaskwarrior/sync.py"
