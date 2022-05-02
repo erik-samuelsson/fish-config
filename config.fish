@@ -3,7 +3,11 @@ if status is-interactive
 end
 
 source ~/.config/fish/fish-alias
+source ~/.config/fish/functions/prompt.fish
+source ~/.config/fish/functions/redefine_watson.fish
+source ~/.config/fish/functions/tw-jira.fish
 
 set -xg valibrary ~/Projects/Development/validation-data-analysis
 set -xg JIRA_API_TOKEN GjId8kVhmsamALd2Ijw5B834
 set -xg EDITOR (which nvim)
+set -xg EMAIL erik.samuelsson@northvolt.com
