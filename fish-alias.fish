@@ -19,3 +19,10 @@ alias ithelp="open https://northvolt.atlassian.net/servicedesk/customer/portal/5
 alias access="open https://myaccess.microsoft.com/#/access-packages"
 alias ghvalibrary="open https://github.com/northvolt/validation-data-analysis"
 alias timerep="open -a Safari 'https://northvolt-prod.operations.dynamics.com/?cmp=se10&mi=TSTimesheetEntryGridViewMyTimesheets'"
+alias ghpipeline="open https://github.com/northvolt/validation-data-pipeline/"
+alias northvolt="open https://northvolt0.sharepoint.com/sites/NorthvoltConnections"
+
+alias now="date '+%Y-%m-%d'"
+
+alias l="exa -1F"
+alias ll="exa -1aFx"
