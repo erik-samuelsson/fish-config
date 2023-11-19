@@ -10,13 +10,3 @@ end
 function tj
     jira open (task _get $argv.jira_id)
 end
-
-function ts
-    watson start (t _get $argv.description) + (t _get $argv.jira_id)
-    t start $argv
-end
-
-function tst
-    watson stop
-    t stop $argv
-end

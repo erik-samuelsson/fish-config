@@ -26,3 +26,9 @@ alias now="date '+%Y-%m-%d'"
 
 alias l="exa -1F"
 alias ll="exa -1aFx"
+
+alias tt="taskwarrior-tui"
+
+alias n="nvim"
+
+alias j="jira-terminal"
